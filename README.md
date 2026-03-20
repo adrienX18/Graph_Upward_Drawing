@@ -7,3 +7,5 @@ You can find a very precise description of the tasks as well as the algorithms w
 The main goal was to create algorithms to minimize the number of edge crossings among all the valid representations of a given oriented a-cyclic graph. A valid representation is a straight-line drawing of the graph on a 2-dimensional integer grid where all the edges "go strictly upward".
 
 All the code is available in this repository.
+
+The two PDFs explain our approach to the problem.
